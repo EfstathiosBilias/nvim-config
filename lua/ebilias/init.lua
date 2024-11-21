@@ -1,2 +1,2 @@
 require("ebilias.keymaps")
-print("Welcome ebilias!")
+require("ebilias.set")
