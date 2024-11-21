@@ -1,2 +1,2 @@
-require("ebilias.keymaps")
 require("ebilias.set")
+require("ebilias.keymaps")
